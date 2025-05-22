@@ -1,4 +1,6 @@
-﻿namespace Final_Project
+using System;
+
+namespace Final_Project
 {
     internal class Program
     {
