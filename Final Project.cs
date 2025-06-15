@@ -1,6 +1,6 @@
 using System;
 
-namespace Final_Project
+namespace Final_ProjecT
 {
     internal class PrograM
     {
