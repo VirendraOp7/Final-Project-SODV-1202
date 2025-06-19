@@ -6,8 +6,8 @@ namespace Final_ProjecT
     {
         static void Main(string[] args)
         {
-        
-        
+
+            Console.Write("Hello");
            
         }
     }
