@@ -478,7 +478,7 @@ namespace ConnectFour
         private Player[] _players; // Array of players (Human or Computer)
         private int _currentPlayerIndex; // Index of the player whose turn it is
         private GameMode _gameMode; // The selected game mode (OnePlayer or TwoPlayer)
-        private Random _random; // For randomizing first player in One-Player m
+        private Random _random; // For randomizing first player in One-Player mode
 
         // Instance of a game class
         public Game(GameMode mode)
