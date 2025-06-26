@@ -218,7 +218,7 @@ namespace ConnectFour
                     {
                         // Use a "board" background color for empty slots
                         Console.BackgroundColor = ConsoleColor.Green; // Simulate Green Connect Four board
-                        Console.ForegroundColor = ConsoleColor.White; // Make empty slot symbol visible on blue
+                        Console.ForegroundColor = ConsoleColor.White; // Make empty slot symbol visible 
                     }
 
                     Console.Write($" {symbol} "); // Print the symbol with its background and foreground color
